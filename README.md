@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nehaa Umapathy</h1>
 <h3 align="center">A passionate developer specializing in software design</h3>
 
-- 🔭 I’m currently working on **the database design of a cinema e-booking website to allow users to browse movies, select seats & showtimes, and book tickets.**
+- 🔭 I’m currently collaborating on **a cinema e-booking website** to allow users to browse movies, select seats & showtimes, and book tickets.
 
-- 🌱 I’m currently learning **database design as well as cybersecurity vulnerabilities & exploitation techniques.**
+- 🌱 I’m currently learning **database design** as well as **cybersecurity vulnerabilities & exploitation techniques.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
