@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nehaa Umapathy</h1>
-<h3 align="center">A passionate developer specializing in software design. Check out my website: <a href="[https://linkedin.com/in//in/nehaaumapathy](https://nehaau2305.github.io/Portfolio/)" target="blank">nehaau2305.github.io/Portfolio/</a></h3>
+<h3 align="center">A passionate developer specializing in software design. Check out my website: <a href="https://nehaau2305.github.io/Portfolio" target="_blank">nehaau2305.github.io/Portfolio/</a></h3>
 
 - 🔭 I’m have recently collaborating on **a cinema e-booking website** to allow users to browse movies, select seats & showtimes, and book tickets.
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/nehaa-umapathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/nehaaumapathy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//in/nehaa-umapathy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/nehaaumapathy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
