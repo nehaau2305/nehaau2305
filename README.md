@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nehaa Umapathy</h1>
-<h3 align="center">A passionate developer specializing in software design</h3>
+<h3 align="center">A passionate developer specializing in software design. Check out my website: <a href="https://linkedin.com/in//in/nehaaumapathy" target="blank">nehaau2305.github.io/Portfolio/</a></h3>
 
-- 🔭 I’m currently collaborating on **a cinema e-booking website** to allow users to browse movies, select seats & showtimes, and book tickets.
+- 🔭 I’m have recently collaborating on **a cinema e-booking website** to allow users to browse movies, select seats & showtimes, and book tickets.
 
 - 🌱 I’m currently learning **web design** as well as **mobile software development on Android Studio.**
 
